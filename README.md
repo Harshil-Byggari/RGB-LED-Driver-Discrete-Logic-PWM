@@ -1,6 +1,6 @@
 # Discrete Logic RGB LED Controller (PWM)
 
-![3D PCB Render](Hardware/3D Render/3D_PCB.png)
+![3D PCB Render](Hardware/3D%20Render/3D_PCB.png)
 
 ## Project Overview
 This project is a **Voltage Controlled Current Source (VCCS)** implementation that controls the brightness of an RGB LED using **Pulse Width Modulation (PWM)**. 
